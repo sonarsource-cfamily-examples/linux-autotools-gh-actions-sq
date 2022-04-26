@@ -3,8 +3,8 @@
 // URIs:
 :uri-qg-status: https://next.sonarqube.com/sonarqube/dashboard?id=sonarsource-cfamily-examples_linux-autotools-gh-actions-sq_AYAYt8D0y0k_ZlpkA-ln
 :img-qg-status: https://next.sonarqube.com/sonarqube/api/project_badges/measure?project=sonarsource-cfamily-examples_linux-autotools-gh-actions-sq_AYAYt8D0y0k_ZlpkA-ln&metric=alert_status&token=squ_a0683d6d23bc3fa8b93a6befc840c774511333cc
-:uri-build-status: https://github.com/sonarsource-cfamily-examples/linux-autotools-gh-actions-sq/actions/workflows/main.yml
-:img-build-status: https://github.com/sonarsource-cfamily-examples/linux-autotools-gh-actions-sq/actions/workflows/main.yml/badge.svg
+:uri-build-status: https://github.com/sonarsource-cfamily-examples/linux-autotools-gh-actions-sq/actions/workflows/build.yml
+:img-build-status: https://github.com/sonarsource-cfamily-examples/linux-autotools-gh-actions-sq/actions/workflows/build.yml/badge.svg
 
 image:{img-build-status}[Build Status, link={uri-build-status}]
 image:{img-qg-status}[Quality Gate Status,link={uri-qg-status}]
