@@ -1,4 +1,4 @@
-= C++ example project scanned on SonarQube using GitHub Actions
+= C++ example project scanned on SonarQube Server using GitHub Actions
 
 // URIs:
 :uri-qg-status: https://next.sonarqube.com/sonarqube/dashboard?id=sonarsource-cfamily-examples_linux-autotools-gh-actions-sq_AYAYt8D0y0k_ZlpkA-ln
